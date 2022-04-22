@@ -26,8 +26,6 @@ public class main {
     }
     public static void main(String[] args) throws Exception {
         System.out.println("Hello, World!");
-        System.out.println("The sum of 12 and 349 is: " + sum2(12, 349));
-        System.out.println("The sum of 24, 98, 27 is: " + sum3(24, 98, 27));
         System.out.println("The greater value between 45 and 100 is " + greaterValue(45,100));
         System.out.println("The greater value between 3.14 and 9.8 is " + greaterValue(3.14,9.8));
 
